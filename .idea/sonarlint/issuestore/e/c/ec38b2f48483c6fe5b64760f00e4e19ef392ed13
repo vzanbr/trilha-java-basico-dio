@@ -1,0 +1,18 @@
+
+]
+java:S1220""Move this file to a named package.8ìÌµñ1J$358c1621-7379-4075-9d15-d9ba3deae5f5
+†
+java:S1854">Remove this useless assignment to local variable "agencencia".(»†­Üıÿÿÿÿ8óÌµñ1J$6d78e24a-d251-4cd7-806f-7edf639f62d5
+n
+java:S1481
+"+Remove this unused "numero" local variable.(ï»Ã¡8úÌµñ1J$5d2f69ae-1afd-4876-8719-7446d49272dd
+w
+java:S1481"/Remove this unused "agencencia" local variable.(»†­Üıÿÿÿÿ8ûÌµñ1J$9e90818d-cc67-485c-8aea-b104e69de244
+x
+java:S1481"0Remove this unused "nomeCliente" local variable.(¶Ãäœüÿÿÿÿ8üÌµñ1J$6de0b396-df56-4063-9501-5ee8368c1b9f
+m
+java:S1481"*Remove this unused "saldo" local variable.(ş±½ñ8üÌµñ1J$4d200d50-2103-44f3-98c4-0c30ad497bf5
+m	java:S106"+Replace this use of System.out by a logger.(Ğ—Íè8şÌµñ1J$e8b8d472-565b-400c-a016-2cc50758c358
+m	java:S106"+Replace this use of System.out by a logger.(»Æş“8ÿÌµñ1J$88bb0904-a28c-44ca-a5af-a13c717ef8a7
+m	java:S106"+Replace this use of System.out by a logger.(Ğ—Íè8ÿÌµñ1J$2a5af6b0-04af-42cc-93cb-94e3fddefd8c
+r	java:S106"+Replace this use of System.out by a logger.(³üáÿÿÿÿÿ8€Íµñ1J$3170860d-f480-4db9-bc42-d5a85b8fcbcf
