@@ -8,7 +8,7 @@ public class ContaTerminal {
             Scanner usuario = new Scanner(System.in);
 
             int numero;
-            String agencencia = GerarAgencia.gerarAgencia();
+            String agencia = GerarAgencia.gerarAgencia();
             String nomeCliente;
             BigDecimal saldo;
 
@@ -17,7 +17,22 @@ public class ContaTerminal {
             System.out.println("=========================");
 
             System.out.println("\n Digite seu nome: ");
-            usuario.next();
+            nomeCliente = usuario.next();
+
+            System.out.println("Digite numero da sua Conta: ");
+            numero = usuario.nextInt();
+
+            System.out.println("Digite o saldo");
+            saldo = usuario.nextBigDecimal();
+
+            System.out.println("\n" +"===============================");
+            System.out.println(nomeCliente);
+            System.out.println(agencia);
+            System.out.println(numero);
+            System.out.println(saldo);
+            System.out.println("===============================");
+            System.out.println("Olá " + nomeCliente  + " obrigado por criar uma conta em nosso banco, " +
+                    "sua agência é " + agencia + " conta " + numero + " e seu saldo " + saldo + " já está disponível para saque");
 
         }
 
